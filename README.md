@@ -1,4 +1,4 @@
-# 📝 Todo Status Sorter
+# 📝 Basic Todo List with Status Filter
 
 A simple JavaScript script that separates todo items into ✅ **Done** and 🚧 **Ongoing** categories based on their `done` status.
 
